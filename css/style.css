@@ -1,0 +1,13 @@
+body {
+    box-sizing: border-box;
+    max-width: 980px;
+    margin: auto;
+    padding: 15px;
+    font-size: 1.4rem;
+    font-family: sans-serif;
+}
+.box {
+    background: red;
+    width: 100px;
+    height: 100px;
+}
